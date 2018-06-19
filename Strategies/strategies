@@ -1,0 +1,18 @@
+-----------Analysis of Chart using Monte Carlo Markov Chain---------
+
+    - calculate best fitting line for "graph"
+    - Split Graph using MCMC, calculate best fitting line for parts
+    - Repeat until ceartain precission is reached
+    - From that the steepness of Graph at every point is reached. 
+    - Integrate to get function.
+    
+    - Prediction based on function value in the future.
+    - gives Hint if Analytical prediction is possible
+    
+----------Statistical Analysis with Kalman Filter-----------
+    
+    - For every value calculate probability that next value is positive or negative
+    - Predict that probability for the next value
+    - Use Kalman Filter for better prediction
+    
+    -Statistical prediction model
